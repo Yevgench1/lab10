@@ -1,0 +1,4 @@
+North America = 613150000
+South America = 385742554
+France = 66991000
+Ukraine = 41167336
